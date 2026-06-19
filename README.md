@@ -17,7 +17,7 @@ Hack4Change 2026, 1st Place. NBCC IT: Software Development, GPA 3.6.
 
 ## What I'm building
 
-**[CommonGround](https://commonground-plxr.onrender.com/)** — Production donation coordination platform for 28+ nonprofits in Moncton. TypeScript, NestJS, PostgreSQL, React. Hack4Change 2026, 1st Place.
+**[CommonGround](https://commonground-plxr.onrender.com/)** : Production donation coordination platform for 28+ nonprofits in Moncton. TypeScript, NestJS, PostgreSQL, React. Hack4Change 2026, 1st Place.
 
 **Currently learning:** RAG pipelines · LangChain · ChromaDB · n8n
 
