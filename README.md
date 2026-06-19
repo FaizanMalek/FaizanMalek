@@ -9,7 +9,8 @@ Hack4Change 2026, 1st Place. NBCC IT: Software Development, GPA 3.6.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-malek-502b23352/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=firefox&logoColor=white)](https://faizanmalek.github.io/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/FaizanMalek/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=firefox&logoColor=white)](https://faizanmalek.github.io/gameDesign)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/xcollapse/)
 
 </div>
 
