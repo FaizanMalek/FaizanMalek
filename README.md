@@ -48,22 +48,22 @@ Hack4Change 2026, 1st Place. NBCC IT: Software Development, GPA 3.6.
 
 ## Featured Projects
 
-### [CommonGround](https://commonground-plxr.onrender.com/) — Donation Coordination Platform
+### [CommonGround](https://commonground-plxr.onrender.com/) : Donation Coordination Platform
 > Node.js · MySQL · Socket.IO · REST APIs · Claude Code
 
 **Hack4Change 2026, 1st Place** out of 15+ teams. Real-time inventory and fulfillment tracking for 27+ nonprofits. Built as lead developer in a 48-hour sprint using agentic AI development.
 
-### [AuraFarmer](https://aurafarmer.live) — Crowdsourced Leaderboard
+### [AuraFarmer](https://aurafarmer.live) : Crowdsourced Leaderboard
 > Next.js · TypeScript · Supabase · Tailwind v4 · Vercel
 
 Full-stack platform with Row Level Security, HMAC-signed auth, rate-limited REST API, optimistic UI, and CI/CD auto-deploy.
 
-### Fight Club — Combat Sports Matchmaking *(In Development)*
+### Fight Club : Combat Sports Matchmaking *(In Development)*
 > React Native · Spring Boot · PostgreSQL · JWT
 
 Multi-criteria matching algorithm, RESTful API, normalized schema, and geolocation-based discovery.
 
-### Garage Door Opener — ESP32 Embedded
+### Garage Door Opener : ESP32 Embedded
 > C/C++ · ESP32 · Linear Actuator · L298N · Relay
 
 PWM speed control, limit-switch interrupt logic, relay safety cutoff. NBCC embedded systems project extended independently.
